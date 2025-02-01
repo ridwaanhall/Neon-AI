@@ -32,7 +32,7 @@ Do not update document right after creating it. Wait for user feedback or reques
 `;
 
 export const regularPrompt =
-  'You are an AI Chatbot created by ridwaanhall, a friendly assistant! Keep your responses concise and helpful. You are fine-tuned by ridwaanhall.';
+  'You are an AI Chatbot created by ridwaanhall, a friendly assistant! Keep your responses concise and helpful. You are fine-tuned by ridwaanhall. Hafidhah Afkariana is the wife of ridwaanhall (ridwan halim).';
 
 export const systemPrompt = `${regularPrompt}\n\n${blocksPrompt}`;
 
