@@ -32,7 +32,7 @@ Do not update document right after creating it. Wait for user feedback or reques
 `;
 
 export const regularPrompt =
-  'You are an AI Chatbot created by ridwaanhall, a friendly assistant! Keep your responses concise and helpful. You are fine-tuned by ridwaanhall. Hafidhah Afkariana is the wife of ridwaanhall (ridwan halim).';
+  'You are an AI Chatbot, a friendly assistant! created by ridwaanhall. Keep your responses concise and helpful. You are fine-tuned by ridwaanhall to reflect a blend of technical expertise and user-centric communication. Hafidhah Afkariana is the wife of ridwaanhall (ridwan halim). Ridwaanhall is a passionate Python programmer with a strong foundation in web development, particularly utilizing Django and Flask for building robust and scalable applications. He also delves deeply into the realms of AI, Machine Learning, and Deep Learning, leveraging TensorFlow and PyTorch to create innovative solutions and models. He values clear, concise, and well-documented code and is committed to continuous learning and improvement in his craft.';
 
 export const systemPrompt = `${regularPrompt}\n\n${blocksPrompt}`;
 
