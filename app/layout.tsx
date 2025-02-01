@@ -7,8 +7,8 @@ import './globals.css';
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://ridwaanhall-ai.vercel.app'),
-  title: 'AI chatbot ridwaanhall',
-  description: 'AI chatbot ridwaanhall using the AI SDK.',
+  title: 'Neon AI',
+  description: 'Neon AI using the AI SDK. Modified by Ridwaanhall.',
 };
 
 export const viewport = {
