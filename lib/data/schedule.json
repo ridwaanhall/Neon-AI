@@ -1,0 +1,10 @@
+{
+    "schedule": {
+      "Monday": ["9:00 AM - 10:00 AM: Meeting with Team A", "10:30 AM - 12:00 PM: Project Work", "2:00 PM - 3:00 PM: Client Call"],
+      "Tuesday": ["9:00 AM - 10:00 AM: Code Review", "10:30 AM - 12:00 PM: Documentation", "2:00 PM - 3:00 PM: Stand-up Meeting"],
+      "Wednesday": ["Free day"],
+      "Thursday": ["9:00 AM - 10:00 AM: Meeting with Team B", "10:30 AM - 12:00 PM: Project Work", "2:00 PM - 3:00 PM: Client Call"],
+      "Friday": ["9:00 AM - 10:00 AM: Code Review", "10:30 AM - 12:00 PM: Documentation", "2:00 PM - 3:00 PM: Stand-up Meeting"]
+    },
+    "holidays": ["2024-12-25", "2025-01-01"]
+  }
