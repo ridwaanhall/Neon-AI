@@ -1,5 +1,6 @@
 import { BlockKind } from '@/components/block';
 import scheduleData from '@/lib/data/schedule.json'; // Import the JSON data
+import guidelineData from '@/lib/data/mentor-guidline.json';
 
 const schedule = scheduleData.schedule;
 const holidays = scheduleData.holidays;
@@ -42,6 +43,9 @@ ${JSON.stringify(schedule)}
 
 And here are the holidays:
 ${JSON.stringify(holidays)}
+
+Here's the mentor guideline:
+${JSON.stringify(guidelineData)}
 `;
 
 export const systemPrompt = `${regularPrompt}\n\n${blocksPrompt}`;

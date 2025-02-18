@@ -1,0 +1,213 @@
+{
+    "title": "[Coding Camp 2025] Mentor Guideline",
+    "important_links": [
+      {
+        "subject": "Coding Camp 2025 powered by DBSF Dashboard",
+        "link": "https://codingcamp.dicoding.com/login"
+      },
+      {
+        "subject": "Student Portal",
+        "link": "will be update soon"
+      },
+      {
+        "subject": "Cohort Guide",
+        "link": "https://www.dicoding.id/CodingCampCohortGuide"
+      },
+      {
+        "subject": "Rewards Guide",
+        "link": "will be update soon"
+      },
+      {
+        "subject": "Discord Guide",
+        "link": "dicoding.id/MentorCodingCamp-DiscordGuide"
+      },
+      {
+        "subject": "Student Welcome Kit - SMK",
+        "link": "https://www.dicoding.id/CodingCampWelcomeKitSMK"
+      },
+      {
+        "subject": "Student Welcome Kit - University",
+        "link": "https://www.dicoding.id/CodingCampWelcomeKitUniv"
+      },
+      {
+        "subject": "Timeline SMK",
+        "link": "https://www.dicoding.id/CodingCampTimelineSMK"
+      },
+      {
+        "subject": "Timeline University",
+        "link": "https://www.dicoding.id/CodingCampTimelineUniversity"
+      },
+      {
+        "subject": "Mentor FAQ",
+        "link": "dicoding.id/MentorCodingCamp-FAQ"
+      },
+      {
+        "subject": "Abstract",
+        "link": "will be update soon"
+      },
+      {
+        "subject": "Recap Study Group - SMK",
+        "link": "https://links.dicoding.org/RecapStudyGroupSMK"
+      },
+      {
+        "subject": "Recap Study Group - Univ",
+        "link": "https://links.dicoding.org/RecapStudyGroupUniv"
+      },
+      {
+        "subject": "Report Quiz Error - SMK",
+        "link": "https://links.dicoding.org/ReportQuizErrorSMK"
+      },
+      {
+        "subject": "Report Quiz Error - Univ",
+        "link": "https://links.dicoding.org/ReportQuizErrorUniv"
+      }
+    ],
+    "student_guidelines": [
+      {
+        "question": "What if I have a question about credit, technical, etc. from a student, and I can't answer it?",
+        "answer": "You can direct participants to contact the Dicoding team via email codingcamp@dicoding.com"
+      },
+      {
+        "question": "How do I see participant progress/progress?",
+        "answer": "Student progress can be viewed on the dashboard by logging in with your mentor email via [Link]. In this dashboard, you can see:\nStudent Progress\nAbsence\nTasks\n📌NOTE:  The dashboard is not updated in real-time. The latest updates can be seen at the top of the progress section."
+      },
+      {
+        "question": "Are there any documents regarding guidance for participants?",
+        "answer": "Please check the detailed guidelines for participants here [Link]. Please direct your participants to read the Cohort Guide before asking questions."
+      },
+      {
+        "question": "How do I join a participant group?",
+        "answer": "Each mentor will be paired with 25 participants. The Dicoding Team will invite mentors to join the participant group. If there are changes to your account, you can contact the Dicoding team to be invited back to the group.\nFor a discussion forum with participants, please join the following Discord server [Link for SMK].\nAll forms of communication and discussion with participants can be carried out on this server. Please choose the appropriate role when joining the server.\nPlease do not create groups other than on Discord"
+      },
+      {
+        "question": "Where can I find out the participant's assignment timeline?",
+        "answer": "A detailed timeline of participant activities can be seen here [Link for SMK, Link for Univ]."
+      },
+      {
+        "question": "What if there are participants who are left behind and cannot be contacted? What do I have to do?",
+        "answer": "Please fill in the following form [Link for SMK, Link for Univ] to inform your unreachable students provided that the mentor has tried to contact the student via discord, student email, and has the following criteria: \nStudents have lagging behind progress or Need Special Attention (NSA)\nStudents do not fill out logbooks\nStudents have never attended weekly consultation sessions or ILT, and\nStudents cannot be contacted for more than 1 week."
+      },
+      {
+        "question": "What should mentors do with participants who are not active in the discussion?",
+        "answer": "Please follow up with participants and discuss 1:1."
+      },
+      {
+        "question": "When do mentors and participants need to meet?",
+        "answer": "Every week. The Dicoding team will create a calendar schedule for weekly consultation and ILT sessions based on the schedule provided by the mentor for the first meeting."
+      },
+      {
+        "question": "Can I hold an unscheduled meeting with participants?",
+        "answer": "Yes, you can, with mutual agreement between the participant and the mentor."
+      }
+    ],
+    "mentor_guidelines": [
+      {
+        "question": "What are the duties of a mentor?",
+        "answer": "Monitor participant progress.\nOnce a week hold an online meeting for 1 hour.\nCheck the participant's condition.\nAssist instructor in ILT sessions.\nJob description details, you can check here [Mentor Job Desc]."
+      },
+      {
+        "question": "Basic Rules for Face-to-Face Sessions",
+        "answer": "Arrive 10 minutes before the session.\nBe polite and respectful to each other, both participants and the instructor.\nTurn on the Camera during the session and turn on the microphone when speaking.\nMake sure it's in a conducive room.\nBe present from the start to the end of the session, and if you leave the session briefly, let us know in the chat column."
+      },
+      {
+        "question": "Can I create a group outside the groups provided by the Dicoding team?",
+        "answer": "It is not recommended to create groups outside the groups provided by the Dicoding team to prevent misinformation between participants and mentors."
+      },
+      {
+        "question": "Can I appoint a participant to be class president?",
+        "answer": "Yes, can. However, even though there is a class leader in the group, mentors are still important to be active in the Discord group."
+      }
+    ],
+    "weekly_consultation_guidelines": [
+      {
+        "question": "What should I do if I cannot attend the weekly consultation session?",
+        "answer": "If you are unable to attend your weekly consultation session or need to reschedule for one week, please follow these steps:\nConfirm and Communicate: Inform your students about the need to reschedule and get their approval for the proposed changes. Clearly communicate the potential new dates to avoid confusion.\nCheck Back: Verify that the new dates do not conflict with other mandatory sessions or activities in the program.\nCommunicate to Mentor Team: Once the new dates are confirmed with the students, please do not create a new calendar. A new calendar will be created by the mentor team and we will notify you via email.\nEmail Notification to Mentor Team: Send an email to mentor@dicoding.org, you can use the following email templates:\nSubject: Request to Reschedule Weekly Consultation - [Class ID]\n\nHello team,\nI hope this message finds you well. I am writing to inform you that I will not be able to attend the upcoming weekly consultation session scheduled on [Original Session Date and Time].\nThe reason for rescheduling is [Reason]. I would like to propose the following new dates for the session:\nPlan A: [Proposed Date A]\nPlan B: [Proposed Date B]\nPlease let me know if these dates work, or if any adjustments are necessary.\nThank you for your understanding and assistance.\nBest regards,\nYour Name\n📌NOTE: Rescheduling requests must be submitted at least 2 days prior to the original session date.\nMentor Team Action: The mentor team will reschedule the session according to the new dates you’ve provided and coordinate the changes with all involved."
+      },
+      {
+        "question": "Do I have to prepare materials for each consultation session?",
+        "answer": "Before the session starts, as a mentor you must prepare team bonding activities for the session and others."
+      },
+      {
+        "question": "What should I do during my weekly consultation?",
+        "answer": "Provide reminders and support to students who are behind in their progress.\nPay close attention to students' questions, concerns, and ideas.\nCreate an open and respectful space for students to engage in meaningful discussions.\nRemind students to finish class.\nAddress complaints and issues raised by students.\nInform students about assignments and deadlines.\nFacilitate activities and games to strengthen team relationships.\nTake time to reflect on the consultation session and evaluate its effectiveness.\nAdditional recommendations can be found at [Link]."
+      },
+      {
+        "question": "What if participants do not attend weekly meetings/consultations?",
+        "answer": "Participants can replace weekly meetings/consultations with 1:1 sessions with mentors according to mentor availability.\nMentors notify participants who are replacing weekly consultation sessions with weekly 1:1 sessions to the Dicoding Team via the following form [Link for SMK , Link for Univ]."
+      },
+      {
+        "question": "Is there a special time slot for the Weekly Consultation session?",
+        "answer": "Of, there are 10 slots available in West Indonesian Time (WIB) and these slots are on weekdays. Time slots as follows:\nTime slot A = 08.00–09.00\nTime slot B = 09.00–10.00\nTime slot C = 10.00–11.00\nTime slot D = 11.00–12.00\nTime slot E = 13.00–14.00\nTime slot F = 14.00–15.00 \nTime slot G = 15.30–16.30\nTime slot H = 16.30–17.30\nTime slot I = 18.30–19.30\nTime slot J = 19.30–20.30\n📌NOTE: Time Slot A-F is for university students only."
+      },
+      {
+        "question": "How do I appeal a consultation session if my participant attended but was marked absent?",
+        "answer": "The following is the appeal process:\nSend email to mentor@dicoding.org with the name and ID of your participant whose attendance status does not match.\nAttach evidence of at least 3 screenshots (beginning, middle and end) for the consultation session.\nWait for a response from the Dicoding Team.\nOnce approved, updates to the dashboard are anticipated within the next two weeks."
+      }
+    ],
+    "ilt_guidelines": [
+      {
+        "question": "Is there an SOP related to ILT Preparation with the Instructor?",
+        "answer": "Yes, the SOP outlines the procedures for conducting a preparation session between mentors and instructors before an ILT session. You can find the SOP [Link]."
+      },
+      {
+        "question": "What if I can't attend the ILT session?",
+        "answer": "Contact the Dicoding team via email mentor@dicoding.org at least a week before the schedule. State the reason why you cannot attend the ILT session.\n\nYou can use the following email templates:\nSubject: Unable to Attend ILT Session - [Session ID]\n\nHello team,\n\nI am writing this email to inform the team that I will not be able to attend the upcoming ILT session scheduled on [Session Date and Time]. \n\nThe reason for my absence is [Reason].\n\nPlease let me know if there are any further steps I need to take or if any additional information is needed.\n\nThank You."
+      },
+      {
+        "question": "Can I access the ILT Tech and Soft Skills slides?",
+        "answer": "Of Course, to help the mentor during the teaching process, please access the previous slide. You can find it on the shared drive at [Link for SMK & University]. However, mentors are prohibited from sharing ILT slides with participants.\n\n📌NOTE: Make sure the slides are appropriate to the topic that should be taught when coordinating with the instructor."
+      },
+      {
+        "question": "Are there any rules regarding the ILT quiz?",
+        "answer": "The following are the rules regarding the ILT quiz:\nThe quiz can only be taken once.\nThe quiz can only be completed during the ongoing ILT session.\nThis quiz can only be accessed using the Dicoding account that was automatically enrolled in the program on January 6, 2025.\nStudents must enable their camera settings while taking the quiz."
+      },
+      {
+        "question": "What should I do if my students are unable to access the quiz?",
+        "answer": "If your students encounter errors while accessing the quiz, please follow these steps: \nFirst, verify that the student is logged into their account.\nIf the student continues to experience problems, please document the issue using the following form (Link for SMK, Link for Univ)\nIf more than one student (e.g., 5 students) is facing the issue, please submit the form separately for each student.\nEvery Friday, the team will send Google Calendar invites to mentors and students who have been reported through the form as experiencing quiz issues.\nThe replacement quiz will be held every Monday from 17:00 AM to 19:00 AM WIB after the ILT session period has ended.\nStudents who are not reported through the form will not receive an invitation to the replacement quiz.\n📌NOTE: If a student is reported after the replacement quiz period has ended, they will not be eligible to participate in the replacement quiz."
+      },
+      {
+        "question": "Can I share ILT slides with participants?",
+        "answer": "No, The Dicoding Team will share slides with participants in a shared drive after all sessions for the week are complete."
+      },
+      {
+        "question": "Do I have to fill out a feedback form for the instructor after the ILT session?",
+        "answer": "Must, you need to fill it in. Your honest feedback is important because it helps us identify areas for improvement and make necessary adjustments to improve the learning experience."
+      },
+      {
+        "question": "Are there specific criteria for identifying Redflag participants during an ILT session?",
+        "answer": "The following are the criteria for Redflag participants:\nSleep during the session: If a participant is found sleeping.\nDisturbing background: When participants' surroundings are noisy or distracting, thereby hindering their own or others' concentration.\nJoin sessions on the go: Especially when riding a motorbike or car, prioritize safety.\nCausing a disturbance: Any behavior that disrupts the session, such as persistent interruptions or inappropriate comments.\nDo not turn off the microphone: Especially over long periods of time when the instructor is talking.\nLess polite: Using inappropriate language, typing offensive content, showing disrespect in written communications, or being disrespectful toward peers or instructors.\nThese criteria help ensure a respectful and focused learning environment for everyone involved."
+      },
+      {
+        "question": "Is there a specific time slot for the ILT session?",
+        "answer": "Yes, there are 2 slots available in WIB (Western Indonesian Time) for the ILT sessions and these are during weekdays. The time slots are as follows:\nTimeslot 1 = 09.00-11.00 WIB\nTimeslot 2 = 13.00-15.00 WIB\nTimeslot 3 = 15.30-17.30 WIB\nTimeslot 4 = 18.30-20.30 WIB\n📌NOTE: Time Slot 1 & 2 is for university students only."
+      },
+      {
+        "question": "What if participants do not complete the assignment?",
+        "answer": "You can help with suggestions first and invite other participants to help their friends."
+      }
+    ],
+    "study_group_guidelines": [
+      {
+        "question": "How can I organize a study group session?",
+        "answer": "The mentor is the coordinator of the study group organization. The study group session consists of: peer tutor and also participants. Details of how the study group is organized can be seen at [Link]."
+      },
+      {
+        "question": "Do participants need to provide feedback to mentors?",
+        "answer": "Yes, this must be done. This feedback will help mentors to improve their performance and also provide input from participants for future mentor improvement. Every two weeks, the team will send a feedback form to participants' emails."
+      },
+      {
+        "question": "When is the bi-weekly feedback period?",
+        "answer": "SMK\nFriday, January 24 2025 - Monday, January 27 2025\nFriday, February 07, 2025 - Monday, February 10, 2025\nFriday, February 28, 2025 - Monday, March 03, 2025\nFriday, March 21, 2025 - Monday, March 24, 2025\nUniversity\nFriday, February 28, 2025 - Monday, March 03, 2025\nFriday, March 14, 2025 - Monday, March 17, 2025\nFriday, March 28, 2025 - Monday, March 31, 2025\nFriday, April 11, 2025 - Monday, April 14, 2025\nFriday, April 25, 2025 - Monday, April 28, 2025\nFriday, May 09, 2025 - Monday, May 12, 2025\nFriday, May 23, 2025 - Monday, May 26, 2025\nFriday, June 06, 2025 - Monday, June 09, 2025\nFriday, June 20, 2025 - Monday, June 23, 2025"
+      }
+    ],
+    "other_guidelines": [
+      {
+        "question": "How can I ascertain the mood of participants before the ILT and Consultation session begins?",
+        "answer": "You can start a chat on discord before the ILT session or weekly consultation starts (30 minutes beforehand). \nRemind participants about the ILT session schedule or weekly consultation and invite participants to give reactions or emojis, not just one but several at once (free emojis).\nYou can ask questions that evoke a lot of feelings. Example: “Morning/Afternoon/Evening/Evening everyone, today there will be a mandatory weekly/ILT consultation session at (schedule). Later we will discuss many things, prepare your questions if you have anything you want to ask\nAre you ready or not? \nThose who are ready for this session can give me an emoji (happy😍, enthusiastic🔥) \nThose who are not ready for this session can give me an emoji (sad😢, tired🫠).\nYou can also ask directly about the participant's condition at the start of the consultation session (you can also use the chat column feature or the latest emoji feature on Google Meet)."
+      },
+      {
+        "question": "Are there any guidelines for collecting questions from students?",
+        "answer": "You can start a Classroom chat (for now) or discord (later) with students to collect their questions. \nExample: “Hello Everyone, next Monday we will be holding a mandatory ILT session. If you have any questions about your first self-paced course (Basic Kotlin), please write them in the comments section. So I can forward your question to our instructor.”\nAfter that you can recap the questions into this template document [Link] (You can change or create your own document)"
+      }
+    ]
+  }
