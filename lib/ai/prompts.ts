@@ -1,6 +1,7 @@
 import { BlockKind } from '@/components/block';
 import scheduleData from '@/lib/data/schedule.json'; // Import the JSON data
 import guidelineData from '@/lib/data/mentor-guidline.json';
+import sopILTprepData from '@/lib/data/sop-ilt-prep.json';
 
 const schedule = scheduleData.schedule;
 const holidays = scheduleData.holidays;
@@ -44,8 +45,11 @@ ${JSON.stringify(schedule)}
 And here are the holidays:
 ${JSON.stringify(holidays)}
 
-Here's the mentor guideline:
+Here's [Coding Camp 2025] mentor guideline:
 ${JSON.stringify(guidelineData)}
+
+Here's [Coding Camp 2025] SOP ILT Preparation:
+${JSON.stringify(sopILTprepData)}
 `;
 
 export const systemPrompt = `${regularPrompt}\n\n${blocksPrompt}`;

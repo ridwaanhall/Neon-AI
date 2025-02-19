@@ -1,0 +1,45 @@
+{
+    "document": {
+      "title": "[Coding Camp 2025] SOP ILT Preparation",
+      "sections": [
+        {
+          "heading": "PURPOSE",
+          "content": "This SOP outlines the procedures for conducting a preparation session between mentors and instructors before an ILT session. The aim is to ensure effective collaboration and comprehensive preparation to enhance the quality of ILT sessions."
+        },
+        {
+          "heading": "SCOPE",
+          "content": "This SOP applies to all mentors and instructors involved in ILT sessions within Coding Camp 2025."
+        },
+        {
+          "heading": "ROLES AND RESPONSIBILITIES",
+          "content": "Mentors: Responsible for initiating communication with instructors and coordinating preparation sessions.\nInstructors: Collaborate with mentors, discuss session plans, ensure alignment of objectives and materials, and ensure teaching materials are ready"
+        },
+        {
+          "heading": "TIMELINE",
+          "content": "ILT schedules will be shared with mentors and instructors one week before the scheduled session."
+        },
+        {
+          "heading": "INSTRUCTOR AND MENTOR COORDINATION STEPS",
+          "introduction": "Follow this SOP to coordinate the ILT preparation and teaching session with your instructor:",
+          "steps": [
+            {
+              "subheading": "Please Initiate Communication with the Instructors",
+              "description": "Upon receiving the ILT schedule, please be active to initiate contact with the assigned instructor. Mentors and instructors should agree on a suitable time for the ILT preparation. If the instructor does not respond to your emails within three days (H-3) before the ILT session, please inform the Coding Camp  team via the Discord channel."
+            },
+            {
+              "subheading": "ILT Coordination & Preparation",
+              "description": "We highly recommend conducting preparation sessions with your instructor in a synchronous manner. While asynchronous sessions are possible, it's crucial to ensure that the instructor remains responsive.",
+              "details": [
+                "Discuss session plans, objectives, teaching materials, and resources during the session.",
+                "Confirm whether the instructor already has the necessary materials or slides for the ILT session.",
+                "If there are activities planned for the ILT session that involve specific tools or platforms, inquire whether the instructor requires any assistance in setting up or conducting these activities.",
+                "Ensure that the instructor is well-informed about the teaching schedule and session timings.",
+                "Remind the instructors of the importance of starting ILT sessions on time and encourage them to join at least 10 minutes before the scheduled start time.",
+                "Both parties should confirm their understanding of the session plan and materials in the ILT preparation session."
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
