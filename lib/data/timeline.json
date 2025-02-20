@@ -1,0 +1,344 @@
+{
+  "Weekly Timeline": [
+    {
+      "Week": "February 10, 2025",
+      "Soft Skills": "Personal Productivity: How to Boost Your Output",
+      "Financial Literacy": null,
+      "Machine Learning": "Memulai Dasar Pemrograman dengan menggunakan Package Open Source Python Software. Belajar fitur software sesuai di video ILT Class session",
+      "Machine Learning Deadline": "February 16, 2025, at 23:59 WIB",
+      "Front End - Back End": "Memulai Dasar Pemrograman untuk menjadi Pengembang Software Engineer di Google/Startup",
+      "Front End - Back End Deadline": "February 16, 2025, at 23:59 WIB",
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "February 17, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Belajar Dasar Visualisasi Data (i.d Salman)",
+      "Machine Learning Deadline": "February 27, 2025, at 23:59 WIB",
+      "Front End - Back End": "Belajar Dasar Pemrograman Web (i.d Pemahaman CSS)",
+      "Front End - Back End Deadline": "February 28, 2025, at 23:59 WIB",
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "February 24, 2025",
+      "Soft Skills": "Growth Mindset and Personal Development: Building Your First Milestone",
+      "Financial Literacy": null,
+      "Machine Learning": "Python Mastery : From Programming Fundamentals to Data Analysis",
+      "Machine Learning Deadline": "March 2, 2025, at 23:59 WIB",
+      "Front End - Back End": "Website Creation Mastery : Building Your First Webpage",
+      "Front End - Back End Deadline": "March 9, 2025, at 23:59 WIB",
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "March 3, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Python Mastery : From Programming Fundamentals to Data Analysis",
+      "Machine Learning Deadline": "March 9, 2025, at 23:59 WIB",
+      "Front End - Back End": "DOM Manipulation Essentials : Enhancing Web Interactivity",
+      "Front End - Back End Deadline": "March 23, 2025, at 23:59 WIB",
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "March 10, 2025",
+      "Soft Skills": "Using Time Pressure To Increase Productivity and Self Management",
+      "Financial Literacy": "Financial Literacy 1",
+      "Machine Learning": "Belajar Machine learning untuk pemula (i.d Arras & jane reynore)",
+      "Machine Learning Deadline": null,
+      "Front End - Back End": "Building Modular Apps : Getting To Know and Utilize Webpack",
+      "Front End - Back End Deadline": "March 30, 2025, at 23:59 WIB",
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "March 17, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Belajar Machine learning untuk pemula (i.d Mohika Darmojo Overview dan Understanding)",
+      "Machine Learning Deadline": "March 30, 2025, at 23:59 WIB",
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null,
+      "Milestone Cut": 1
+    },
+    {
+      "Week": "March 24, 2025",
+      "Soft Skills": "Influence and Networking: The Art of Persuasion and Creating Connections",
+      "Financial Literacy": "Financial Literacy 2",
+      "Machine Learning": "Introduction to Supervised Learning : Concepts and Applications",
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null,
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "April 7, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": "Financial Literacy 3",
+      "Machine Learning": "Belajar Pengembangan Machine Learning",
+      "Machine Learning Deadline": "April 14, 2025, at 23:59 WIB",
+      "Front End - Back End": "Belajar Fundamental Front End Web Development",
+      "Front End - Back End Deadline": "April 20, 2025, at 23:59 WIB",
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "April 14, 2025",
+      "Soft Skills": "Business Introspection : Presenting with Confidence",
+      "Financial Literacy": null,
+      "Machine Learning": "Advanced ML: Computer Vision and Time Series Insights",
+      "Machine Learning Deadline": "April 27, 2025, at 23:59 WIB",
+      "Front End - Back End": "RESTful API Interfacing : Communication in Web Development",
+      "Front End - Back End Deadline": "April 30, 2025, at 23:59 WIB",
+      "Milestone Cut": 1
+    },
+    {
+      "Week": "April 21, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Belajar Pengembangan Machine Learning",
+      "Machine Learning Deadline": null,
+      "Front End - Back End": "Belajar Pemrograman Web Intermediate (i.d TIKI)",
+      "Front End - Back End Deadline": null,
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "April 28, 2025",
+      "Soft Skills": "Personal Branding: Presenting The Best Version of Yourself",
+      "Financial Literacy": null,
+      "Machine Learning": "Crafting Intelligence : A Deep Dive into NLP and Generative AI",
+      "Machine Learning Deadline": "May 5, 2025, at 23:59 WIB",
+      "Front End - Back End": "Geolocation Essentials: Crafting Map-Driven Applications",
+      "Front End - Back End Deadline": "May 4, 2025, at 23:59 WIB",
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "May 5, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Belajar Fundamental Pemrograman Data",
+      "Machine Learning Deadline": null,
+      "Front End - Back End": "Belajar Pemrograman Web Intermediate (i.d TIKI)",
+      "Front End - Back End Deadline": null,
+      "Milestone Cut": 0
+    },
+    {
+      "Week": "May 12, 2025",
+      "Soft Skills": "Problem Solving : Techniques for Dealing with Obstacles",
+      "Financial Literacy": null,
+      "Machine Learning": "Data Processing Essentials : Techniques for Clean and Effective Data",
+      "Machine Learning Deadline": null,
+      "Front End - Back End": "Progressive Web Apps : Taking Your Web Application to the Next Level",
+      "Front End - Back End Deadline": null,
+      "Milestone Cut": 1
+    },
+    {
+      "Week": "May 19, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Machine Learning Terapan #1 & Proyek Pertama Kirim Submision dan Review",
+      "Machine Learning Deadline": "May 26, 2025, at 23:59 WIB",
+      "Front End - Back End": "Belajar Back-End Dengam Javascript (i.d Membangun Web-Service menggunakan Node.js)",
+      "Front End - Back End Deadline": "June 1, 2025, at 23:59 WIB"
+    },
+    {
+      "Week": "May 26, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Machine Learning in Action : Industry Integration and Seamless Conversion",
+      "Machine Learning Deadline": "June 1, 2025 at 23:59 WIB",
+      "Front End - Back End": "Backend Essentials: Intro to Server-Side Programming with Node.js",
+      "Front End - Back End Deadline": "June 1, 2025 at 23:59 WIB"
+    },
+    {
+      "Week": "June 2, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": "Machine Learning Terapan",
+      "Machine Learning Deadline": null,
+      "Front End - Back End": "Belajar Back-End Dengan Javascript",
+      "Front End - Back End Deadline": null
+    },
+    {
+      "Week": "June 9, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": null,
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null
+    },
+    {
+      "Week": "June 16, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": null,
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null
+    },
+    {
+      "Week": "June 23, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": null,
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null
+    },
+    {
+      "Week": "June 30, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": null,
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null
+    },
+    {
+      "Week": "July 7, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": null,
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null
+    },
+    {
+      "Week": "July 14, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": null,
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null
+    },
+    {
+      "Week": "July 21, 2025",
+      "Soft Skills": null,
+      "Financial Literacy": null,
+      "Machine Learning": null,
+      "Machine Learning Deadline": null,
+      "Front End - Back End": null,
+      "Front End - Back End Deadline": null
+    }
+  ],
+  "Capstone Timeline": {
+    "January": [
+      {
+        "Week of learning": "January 27, 2025",
+        "Effective Day": "3"
+      },
+      {
+        "Week of learning": "February 3, 2025",
+        "Effective Day": "5"
+      }
+    ],
+    "February": [
+      {
+        "Week of learning": "February 10, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "February 17, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "February 24, 2025",
+        "Effective Day": "5"
+      }
+    ],
+    "March": [
+      {
+        "Week of learning": "March 3, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "March 10, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "March 17, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "March 24, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "March 31, 2025",
+        "Effective Day": "0"
+      }
+    ],
+    "April": [
+      {
+        "Week of learning": "April 7, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "April 14, 2025",
+        "Effective Day": "4"
+      },
+      {
+        "Week of learning": "April 21, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "April 28, 2025",
+        "Effective Day": "4"
+      }
+    ],
+    "May": [
+      {
+        "Week of learning": "May 5, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "May 12, 2025",
+        "Effective Day": "4"
+      },
+      {
+        "Week of learning": "May 19, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "May 26, 2025",
+        "Effective Day": "4"
+      }
+    ],
+    "June": [
+      {
+        "Week of learning": "June 2, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "June 9, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "June 16, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "June 23, 2025",
+        "Effective Day": "4"
+      },
+      {
+        "Week of learning": "June 30, 2025",
+        "Effective Day": "5"
+      }
+    ],
+    "July": [
+      {
+        "Week of learning": "July 7, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "July 14, 2025",
+        "Effective Day": "5"
+      },
+      {
+        "Week of learning": "July 21, 2025",
+        "Effective Day": "5"
+      }
+    ]
+  }
+}
