@@ -1,0 +1,158 @@
+[
+  {
+    "Why Discord?": {
+      "description": "Discord is a free communication platform similar to Telegram or WhatsApp. Originally, Discord was created for gamers because of its low-latency voice chat features and channel captions that made it easier to coordinate strategies and socialize during games. Now, Discord has grown to become one of the most popular communication platforms for organizations and communities.",
+      "table": {
+        "Discord Server": {
+          "Group Capacity": "Up to 32 million members",
+          "Permission Control Level": "Very detailed",
+          "Permission Type": "Roles & permission",
+          "Customization": "Very flexible",
+          "Complexity": "More complex"
+        },
+        "Telegram Supergroup": {
+          "Group Capacity": "200,000 members",
+          "Permission Control Level": "Currently",
+          "Permission Type": "Admins & restrictions",
+          "Customization": "Quite flexible",
+          "Complexity": "Quite complex"
+        },
+        "WhatsApp Group": {
+          "Group Capacity": "1,024 members",
+          "Permission Control Level": "Low",
+          "Permission Type": "Admin and basic controls",
+          "Customization": "Limited",
+          "Complexity": "The simplest"
+        }
+      },
+      "conclusion": "In conclusion, Discord is the best choice for large members and complex permission structures. With a member capacity of up to 32 million, Discord far exceeds Telegram and WhatsApp. Additionally, Discord offers very detailed control of user permissions through its roles and permissions system. Although it may seem complicated for beginners, Discord is very flexible when it comes to customization. This allows you to create different groups of users with different levels of access to features on the server."
+    },
+    "What Not to Do on Discord Servers?": {
+      "introduction": "To ensure a positive and rewarding experience for all members, here are some dos and don'ts:",
+      "rules": [
+        {
+          "Inappropriate Language and Content": "Avoid using sexually suggestive, vulgar or offensive language. Don't post sensitive or NSFW material that could offend or harm others. Respect other members' backgrounds and sensitivities."
+        },
+        {
+          "Pings Abuse": "Avoid excessive use of pings, especially to the Dicoding Team, Discord Manager, or other users for inappropriate or unnecessary reasons."
+        },
+        {
+          "Disrespectful Behavior": "Don't engage in personal attacks, bullying, or harassment. Disputes should be handled respectfully via direct messages, without using insults or threats."
+        },
+        {
+          "External Link Promotion": "Don't share or promote links from other servers on the Coding Camp Discord server. Respect the boundaries and focus of our community."
+        }
+      ],
+      "guidance": "This guide aims to help us maintain an appropriate and conducive atmosphere for learning on the Coding Camp Dicoding Discord Server. While this guide is detailed, it does not cover all possibilities, and the Coding CampTeam reserves the right to address activities deemed detrimental to the community. Members are encouraged to contact the Dicoding Team or Discord Manager via direct message if they have any concerns.",
+      "conclusion": "Let's work together to maintain this goal and provide a positive and supportive experience for all members. 🤝"
+    },
+    "Text Channels": {
+      "introduction": "Channel texts are your main place to communicate in text form in Discord. There are various channels you can visit and various discussion topics that can be explored. Please remember that each channel has its own topics, so make sure to stick to relevant topics!",
+      "Types of Text Channels": [
+        {
+          "Teks Channel": "Channel texts, marked with the # symbol (or hashtag) in the server's channel list, allow you to send text interactions. When using channel captions, keep the following in mind:\nType your message in the text box at the bottom of the app and press Enter to send it to the text channel.\nYou can also send GIFs, stickers, emoticons and gifts using the text box."
+        },
+        {
+          "Discussion Forum": "Forum Channels facilitate organized discussions. Forums let you talk about specific topics without worrying about talking to each other all at once. You can create posts on specific topics so that other people with similar interests can join in the discussion. Since discussions only exist within posts, you can join existing ones (or create new ones) without fear of your message getting buried! Learn more about Forum Discussions at here."
+        }
+      ]
+    },
+    "Explore Channel Text on the Coding Camp Discord Server": {
+      "#rules-and-guidances": "This channel is very important, although often overlooked. Here, you will find all of our community rules and guidelines. Think of it as our rulebook! Following these guidelines is key to keeping our servers friendly and enjoyable for all members. So, before jumping into the conversation or exploring other channels, take a moment to look here. Your cooperation helps make our community a great place!",
+      "#q-n-a": "Welcome to the \"q-n-a\" channel! This is the place to ask or help with questions. Feel free to ask questions or engage on a variety of topics, but always remember to keep the conversation civil and inclusive.",
+      "#|path|-|path|-discussion & #|path|-learning-reference": "On our server, each learning path has a dedicated \"discussion\" and \"learning-references\" channel. These channels serve as dynamic forums where members can engage in discussions regarding their learning paths and share valuable resources for learning and reference purposes.",
+      "#class-channel": "After selecting your class role, you will get access to a special \"Class Channel\". This private space serves as a center for interaction between the facilitator, your classmates, and yourself. Here, you will receive important updates about your activities such as sessions instructor-led training (ILT) and Weekly Consultation. Additionally, it is the perfect platform to discuss, seek guidance from your facilitator, and collaborate with classmates to enrich your learning. Make the most of your experience on Class Channel by staying informed, connected, and actively participating in discussions and activities with your group members.",
+      "conclusion": "That's just an overview of the channels in this Discord 101 guide; there are many more channels waiting for you to explore on our server. Feel free to explore the channels, engage in the various topics and communities we offer, but always remember to follow the rules for a positive and enjoyable experience for everyone. Don't forget to say hello to your classmates or facilitator! Happy exploring!"
+    },
+    "Threads": {
+      "introduction": "Have you ever been on a text channel and gotten into a long conversation about a single topic? With features Threads, you can keep conversations organized and help others join in without disrupting the main topic of the channel.",
+      "How to Create a Thread": [
+        "First, select the channel text where you want to create a thread and click the appropriate button.",
+        "After that, Discord will open a side panel on the right. Enter a title for the thread you want to create."
+      ],
+      "Public and Private Threads": {
+        "introduction": "Threads follow the permissions of the channel where they were created. If you don't have access to the channel's text, of course you can't chat or even create threads there. There are two types of threads: public And private.",
+        "public-threads": "by default, public threads follow the permissions of the channel from which they were created. You can freely access the public threads created and join the conversation in the middle.",
+        "private-threads": "Thread Privat, on the other hand, private threads can only be accessed by specific roles and people you name in them. You can create a private thread by selecting the appropriate option.\nWith private threads, only people who have permission (or are named) on the thread can access it."
+      }
+    },
+    "Voice Channels": {
+      "introduction": "A voice channel is a place on a server where users can connect and talk to each other. You can distinguish voice channels from text channels because voice channels are marked with a speaker icon . Voice Channels are like WhatsApp or Telegram group voice calls, but with various features and activities that you can do with your friends.",
+      "if you want to end the conversation": "simply leave the channel by disconnecting.",
+      "Text Chat in Voice Channels": "You can use the text chat feature integrated in voice channels to send messages, provide comments on what is being said without interrupting the speaker, and share links, memes, and other information. This feature allows you to stay in touch without having to switch to a different text channel, so you won't lose the flow of an ongoing conversation or be distracted from a live conversation on a voice channel.\nTo use text chat, just click the [ button] on Voice Channels."
+    },
+    "Pings and Notifications": {
+      "introduction": "Discord is an online community hub that can become busy with notifications if not managed well. Pings and notifications are important for staying connected, but they can overwhelm you if not adjusted appropriately. This guide will help you organize your Discord experience by mastering ping and notification settings.",
+      "Understanding Pings and Notifications": {
+        "Pings": "Pings are mentions with the \"@\" symbol followed by a username (for example, \"@cool_username\") that notify the mentioned user about a specific message or channel.",
+        "Notifications": "Notifications tell you about various activities in Discord, including pings, direct messages, server updates, and voice chat activity. Learn more about notifications at here."
+      },
+      "Customizing Your Notification Settings": [
+        {
+          "User Account Settings": {
+            "Access": "Click the gear icon next to your username. Under \"App Settings\": Navigate to \"Notifications\".",
+            "Enable/disable desktop notifications": "Choose whether notifications appear on your screen.",
+            "Silent": "Filter all temporary notifications for a specified duration.",
+            "Sound": "Choose a notification sound or turn it off altogether."
+          }
+        },
+        {
+          "Server Notification Settings": {
+            "Access": "Right-click on the server icon and select \"Notification Settings.\"",
+            "Override mentions": "Select notification settings specific to that server, overriding your user account settings if necessary.",
+            "Channel mentions": "Define notification preferences for @everyone, @here, and individual channel mentions.",
+            "Online friends": "Control notifications when your friends are online or offline.",
+            "Roles": "Choose to receive or not receive notifications for specific roles on the server."
+          }
+        },
+        {
+          "Channel Specific Adjustments": {
+            "Access": "Right-click on the channel and select \"Notification Settings.\"",
+            "Mute channels": "Completely turn off notifications for a specific channel.",
+            "Highlight mentions": "Make mentions in channels more visually striking."
+          }
+        }
+      ],
+      "conclusion": "By mastering these settings, you can transform your Discord experience from a chaos of notifications to an organized flow of information, allowing you to stay connected without feeling overwhelmed. Remember, finding the right balance between staying connected without feeling informed and maintaining focus is key to enjoying Discord to the fullest.",
+      "Disclaimer": "Use the \"@\" symbol strategically. Use pings wisely to avoid overwhelming others, especially if you're pinging a role with many members, such as @everyone.",
+      "Attention": "We recommend that you NOT mute the Coding Camp server, because Dicoding's Coding CampDiscord server is our primary communications platform. Turning off the server or disabling notifications can make you lose valuable information, especially from your class channels, important announcements, reminders, and other information."
+    },
+    "Bots": {
+      "introduction": "Have you heard of bots?  In Discord, bots are software applications programmed to perform various tasks. They can help you with a variety of activities when using Discord, from server moderation to playing music. Discord bots work by following instructions given to them via chat or voice channels. For example, you can give the bot a command to play music or report spam messages.\nDiscord bots can be very helpful, especially if you have a large server. They can automate tasks that may be time-consuming or difficult to do manually. Here are some things bots can do:",
+      "function": {
+        "Server Moderation": "Bots can automatically delete spam messages, block users who break the rules, and mute annoying users.",
+        "Playing Music": "The bot can play music from various sources, including YouTube, Spotify, and SoundCloud.",
+        "Sending Announcements": "Bots can send announcements to all users on your server or only to certain channels."
+      },
+      "safety": "In general, Discord bots are safe to use. They are just programs running on the Discord server and cannot access information or perform actions they do not have permission to do. However, make sure you only install bots from trusted sources.Here are some guides for using each bot available on our Discord Server."
+    },
+    "Create a Poll": {
+      "introduction": "By using bots, you can create polls on Discord. On the Coding Camp server, there is a bot that you can use, namely Dyno. Here is a guide to using Dyno to create polls:",
+      "instructions": [
+        "In the channel text, use the /poll create command. Choose Dyno if you have many bots on your server with the same command",
+        "In the “message” column, write your poll question.",
+        "In the “choice” column, write down the answer choices. You can add from 2 to 10 options. Then, send the command.",
+        "Finished! Your poll has been created."
+      ]
+    },
+    "Bot music": {
+      "introduction": "Music bots in Discord allow you to play music in voice channels by using various commands. With this bot, you can enjoy music without the distraction of horror podcast ads! You can also listen to music with friends, share music knowledge, or play romantic songs to signal your crush! Very practical, right?",
+      "Using Music Bots with LunaBot": {
+        "introduction": "Here are the basic commands for LunaBot. For more details and advanced commands, you can refer to LunaBot official documentation.",
+        "instructions": [
+          "Use the command /join in the voice channel chat to invite LunaBot (select the LunaBot option).",
+          "Type /play song name to add music to the queue (you can also add a link). LunaBot will play songs automatically starting from the first song added.",
+          "Use /pause to pause the music.",
+          "Use /resume to resume music playback after pausing.",
+          "Type /queue to see a list of music that has been added to the queue.",
+          "Use /back to play the previous song in the queue (select the LunaBot option).",
+          "Type /skip to stop the currently playing song and continue to the next song in the queue.",
+          "Use /replay to replay the currently playing song.",
+          "Use /remove position to remove music from the queue based on its position (see the position of the music by opening the queue list first).",
+          "Type /stop to stop the music and clear the entire queue.",
+          "Use /disconnect to stop the music and make the bot leave the voice channel."
+        ]
+      }
+    }
+  }
+]
